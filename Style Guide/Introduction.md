@@ -1,0 +1,1 @@
+This is the first commit for the style guide. Ideas, chapters, and examples are soon to come!
