@@ -326,7 +326,8 @@ Local Variable: a variable which is only used in a single method
 - Citation(s)
 
 DRY: Don't Repeat Yourself
-- Citation(s)
+- Cita
+- 0.+tion(s)
 
 WET: Write Everything Twice
 - Citation(s)

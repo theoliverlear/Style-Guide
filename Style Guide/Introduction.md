@@ -26,6 +26,8 @@ block comments vs brief, low visual cost comments
 when to use keywords like "method" or "section" in comment heading
 when should headings occur
 
+a throwing tree might be indicative
+
 how much of the time will the user be in front of the code vs program independence
 -- how do we account for these different situations (error handling)
 
@@ -41,6 +43,11 @@ the exception can add just as much as the rule
 
 keep in mind the keywords of the chapter and section when writing. reiterate without repeating (maybe)
 
+acronym interactions with case style like JSON in a variable name of camel case
+double tripple+ negatives (or positives) handling
+what is the goal and what is the read purpose of the condition to choose between 
+what makes sense to the concept and what handles programming flow best
+
 chatGPT says "Remember, the primary purpose of comments is to communicate the intent and 
 functionality of your code effectively. Special characters should be used sparingly and in a way that 
 supports readability rather than distracting from it."
@@ -49,6 +56,9 @@ cite your sources, quotes, influences, examples, ect.
 "taking influence from {book} by {author}" it is best pracice to do {thing} this way
 --example from {book} by {author}, chapter, page
 
+readability is like a loading bar of readily apperent, the sections of readily apparent code all together creates a cohesive readable document
+the use of the var keyword
+fetch vs get keywords (getter setter vs web data vs otherwise)
 
 organizing library, imports, and directories
 how people read -- up down left right and when thats not the case
@@ -63,6 +73,12 @@ understand the conditions as opposed to having to direct each condition -- in sh
 idea where just while (true) does not
 When to have spaces between things like methods() and keywords like while ()
 
+err vs tErr where one terminates and the other does not
+capitalizing all of url as when its a simple string it can be lower (camel case) whereas an object URL would be upper
+the value of verbosity (repition legitimizes) and the value
+of terseness or succinct reiterate without repeating
+shorter is not always better
+
 When to printstacktrace (long and continues program) vs a named throw like a RuntimeException 
 (specific and stops execution)
 emergencies -— when to use system.exit()
@@ -76,6 +92,8 @@ and class and directories ThingTest
 
 Long arguments list, when to press enter, and how/when to line up the entered code -- 
 what artifacts do you base the indentation on
+
+string set to null vs empty value "" -- possibly the expectation to be added to is implied by the double "" while null may remain in nothingness
 
 the difference in conventions between languages -- statically typed vs dynamically 
 typed (names of variables, methods, classes, ect)

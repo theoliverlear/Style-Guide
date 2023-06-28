@@ -16,7 +16,7 @@ Chapter 21: CSS
   - Visual hierarchy
     - Table of benefits / costs / use case
 ---
-Chapter 1: Introduction
+Chapter 1: Preface
 - Section 1.X: Who am I?
   - Why create this guide?
   - What is my experience?
