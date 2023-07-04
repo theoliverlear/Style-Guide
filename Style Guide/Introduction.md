@@ -13,6 +13,8 @@ top of page comments
 - (copyright citation ex Copyright: see LICENSE.md)
 license in code vs license in repository
 
+## WITH ANY PIECE OF INFORMATION, YOU HAVE TO GIVE IT BUT ALSO SAY WHY ITS IMPORTANT
+
 common coding terms used-- a glossary of terms (perhaps an index too)
 Variable names
 Line width (79, 49) -- look up screen widths and max text space available fullscreen and halfscreen
@@ -26,7 +28,22 @@ block comments vs brief, low visual cost comments
 when to use keywords like "method" or "section" in comment heading
 when should headings occur
 
-a throwing tree might be indicative
+a throwing tree might be indicative of a method doing too much
+make meaningful distinctions
+if your calling .matches() on a mat Matcher object, the name may be readily apparent by the context 
+of the method name and the variable name
+
+programming is an inherently human endevour. The computers we type on to the languages we write
+and the compiliers we use are all from humans. We must understand the paradigm we are working in
+is a human paradigm and that is why metaphorical thinking, like Steve McConnell's "Code Complete"
+says, is important to programming readability.
+the power of a metaphor and metaphorical (metaphysical?) thinking
+
+the reader may read something and take it at face value while the studier will
+stop and think of the implications of the statement. The studier will ask "why is this important"
+while the reader takes it as given. The skimmer tends to look over contextualizing styling
+cues while also benefiting from a general understanding the base styling provides
+
 
 how much of the time will the user be in front of the code vs program independence
 -- how do we account for these different situations (error handling)
