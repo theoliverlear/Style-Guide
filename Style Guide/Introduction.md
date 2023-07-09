@@ -5,10 +5,8 @@ This is the first commit for the style guide. Ideas, chapters, and examples are 
 
 top of page comments
 - name
-- project name (perhaps the file name appended with a preceeding pipe (|))
+- project name (perhaps the file name appended with a preceding pipe (|))
 - version
-- description
-- date created
 - date modified
 - (copyright citation ex Copyright: see LICENSE.md)
 license in code vs license in repository
@@ -17,7 +15,7 @@ license in code vs license in repository
 
 common coding terms used-- a glossary of terms (perhaps an index too)
 Variable names
-Line width (79, 49) -- look up screen widths and max text space available fullscreen and halfscreen
+Line width (79, 49) -- look up screen widths and max text space available fullscreen and half-screen
 temporary local variables
 order/structure of methods
 commend header distinctions
@@ -33,8 +31,8 @@ make meaningful distinctions
 if your calling .matches() on a mat Matcher object, the name may be readily apparent by the context 
 of the method name and the variable name
 
-programming is an inherently human endevour. The computers we type on to the languages we write
-and the compiliers we use are all from humans. We must understand the paradigm we are working in
+programming is an inherently human endeavour. The computers we type on to the languages we write
+and the compilers we use are all from humans. We must understand the paradigm we are working in
 is a human paradigm and that is why metaphorical thinking, like Steve McConnell's "Code Complete"
 says, is important to programming readability.
 the power of a metaphor and metaphorical (metaphysical?) thinking
@@ -73,17 +71,33 @@ cite your sources, quotes, influences, examples, ect.
 "taking influence from {book} by {author}" it is best pracice to do {thing} this way
 --example from {book} by {author}, chapter, page
 
-readability is like a loading bar of readily apperent, the sections of readily apparent code all together creates a cohesive readable document
+readability is like a loading bar of readily apperent, the sections of readily 
+apparent code all together creates a cohesive readable document
 the use of the var keyword
 fetch vs get keywords (getter setter vs web data vs otherwise)
+
+how to handle boilerplate like headers styling like having curls on one line
+
+clean code - style distinquishes excellence from compitence
+cc - style is a process not a static endpoint
+cc-- a clean shop floor reduces accidents, well organized increases productivity
+
+the ultimate goal is to take a program with problems and make it into a program with less problems
+
+
+style is built piece by piece
+
+what is our pursuit? beauty? functionality? readability?
+
+according to clean code consistent indenting one of strongest effect on low bug density
 
 organizing library, imports, and directories
 how people read -- up down left right and when thats not the case
 capitalization and case consistency with purpose
-retrieving a boolean before an action or durinng it liuke has ennough money on the call or duing it
+retrieving a boolean before an action or durinng it like has enough money on the call or duing it
 when naming variable based on what it is and how it will be used
 if shortening a variable name, it should be readily apparent what it is with the new name
-ex. g not redibily apparent for graphics but graphics graphs may be better
+ex. g not readily apparent for graphics but graphics graphs may be better
 ex connection can be shortened to conn 
 for the most part, using named variables in loops, like while, are best to 
 understand the conditions as opposed to having to direct each condition -- in short, it should give a general
@@ -92,7 +106,7 @@ When to have spaces between things like methods() and keywords like while ()
 
 err vs tErr where one terminates and the other does not
 capitalizing all of url as when its a simple string it can be lower (camel case) whereas an object URL would be upper
-the value of verbosity (repition legitimizes) and the value
+the value of verbosity (repetition legitimizes) and the value
 of terseness or succinct reiterate without repeating
 shorter is not always better
 
@@ -102,6 +116,9 @@ emergencies -— when to use system.exit()
 Checking for outliers and how to add that to program without confusing boilerplate 
 (separation, perhaps a (static?) Utilities class)
 
+classes like relationships and how these relationships should work for different kinds of concepts
+
+
 the anatomy of a comment, the scope implied by a comment, block vs inline comments (when and why)
 when to have a new variable -- a new idea or concept, a new use case, 
 general test naming structure, use common pracice of variables and methods testThing
@@ -110,7 +127,8 @@ and class and directories ThingTest
 Long arguments list, when to press enter, and how/when to line up the entered code -- 
 what artifacts do you base the indentation on
 
-string set to null vs empty value "" -- possibly the expectation to be added to is implied by the double "" while null may remain in nothingness
+string set to null vs empty value "" -- possibly the expectation to be added
+to is implied by the double "" while null may remain in nothingness
 
 the difference in conventions between languages -- statically typed vs dynamically 
 typed (names of variables, methods, classes, ect)

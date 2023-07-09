@@ -70,7 +70,7 @@ by repetition - it legitimizes.
 Proficiency bias: when a programmer writes and styles code in a way that
 is consistent by their standard of knowledge and they fail to account for
 the lower standard of knowledge of other programmers.
-- This is cupled with a lack of understanding of the intended audience and
+- This is coupled with a lack of understanding of the intended audience and
 a dismorphic idea of the code style for the intended audience.
 - Ex. "In figure 4.2, we can see that the author of the code has a proficiency
 biased. They skipped adding comments as to what the loop on line 42 does because
