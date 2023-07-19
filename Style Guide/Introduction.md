@@ -25,7 +25,22 @@ when to do comments inline vs newline
 block comments vs brief, low visual cost comments
 when to use keywords like "method" or "section" in comment heading
 when should headings occur
+when to wrap a method with a poor name in a renamed method to make content more
+readable
 
+this of git branches like trying to work on a java code and you want to use one
+part but the errors from another section stop you from using what you should be
+able to use. git branches allow you to work on one section of code while another
+section is being worked on. You can then merge the two branches together when
+they wont have issues
+
+chapter: tools plugins, themes, colors, and features that can help readability
+
+any example will be at least x.1 because x.0 is the introduction always
+use java documentation or documentation in general for inspiration
+the power of alignment
+
+newline if else or else on end of if
 a throwing tree might be indicative of a method doing too much
 make meaningful distinctions
 if your calling .matches() on a mat Matcher object, the name may be readily apparent by the context 
