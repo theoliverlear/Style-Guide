@@ -18,7 +18,7 @@ and readily apparent variable names, the code is readable."
 - Think of a textbook based on readability and its sections / examples as
 readily apparent.
 
-Stuttering variable: a variable which repeats implied or readily aparent
+Stuttering variable: a variable which repeats implied or readily apparent
 information.
 - Ex. "the variable returnValueInteger is a stuttering variable because the
 variable is implied as being returned in its being returned and value is a 
