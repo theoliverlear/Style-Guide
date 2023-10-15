@@ -23,8 +23,9 @@ try/catch vs throws (looping, exception handling)
 maybe primitives vs objects ex String[] vs StringTokenizer
 when to do comments inline vs newline
 block comments vs brief, low visual cost comments
-when to use keywords like "method" or "section" in comment heading
-when should headings occur
+when to use keywords like "method" or "section" in comment heading? - What is
+already implied
+when should headings occur?
 when to wrap a method with a poor name in a renamed method to make content more
 readable
 
@@ -46,7 +47,7 @@ make meaningful distinctions
 if your calling .matches() on a mat Matcher object, the name may be readily apparent by the context 
 of the method name and the variable name
 
-programming is an inherently human endeavour. The computers we type on to the languages we write
+programming is an inherently human endeavor. The computers we type on to the languages we write
 and the compilers we use are all from humans. We must understand the paradigm we are working in
 is a human paradigm and that is why metaphorical thinking, like Steve McConnell's "Code Complete"
 says, is important to programming readability.
