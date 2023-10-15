@@ -35,6 +35,11 @@ able to use. git branches allow you to work on one section of code while another
 section is being worked on. You can then merge the two branches together when
 they wont have issues
 
+when piece of code are commented out, there should be a reason why and it's 
+either readily apparent like having test() method commented out with 
+test2() under it. Otherwise, you should provide a reason of what the code is 
+and why its commented out. What is the plan for it?
+
 chapter: tools plugins, themes, colors, and features that can help readability
 
 any example will be at least x.1 because x.0 is the introduction always
