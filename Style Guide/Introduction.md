@@ -35,6 +35,9 @@ able to use. git branches allow you to work on one section of code while another
 section is being worked on. You can then merge the two branches together when
 they wont have issues
 
+using a language what it's "meant for" vs using as a means of communication
+ideas like a regular language does
+
 you code is and is read as a document. It should be formatted as such with
 headings, bodies, and an enclosing and limiting margin
 
