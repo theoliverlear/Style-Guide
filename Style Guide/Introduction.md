@@ -29,6 +29,7 @@ when should headings occur?
 when to wrap a method with a poor name in a renamed method to make content more
 readable
 
+an argument in favor of brackets for consistency and readability of domain
 this of git branches like trying to work on a java code and you want to use one
 part but the errors from another section stop you from using what you should be
 able to use. git branches allow you to work on one section of code while another
