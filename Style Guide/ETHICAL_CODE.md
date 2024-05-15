@@ -55,10 +55,10 @@ with Rob many times during her lunch break in a classroom which was meant to
 be for people with special needs -- when she was in no way obligated to do so
 given Rob had his own special needs supervisor. I will never forget all the 
 times I walked into her classroom everyday where, instead of just sitting at
-her desk rueing the lack of reward you get from that kind of job, she stood by
+her desk ruing the lack of reward you get from that kind of job, she stood by
 the door and once everyone had hung up their backpacks and jackets, she would
 greet us all a different way. She would do high five, or a fist bump, or a
-handshake for those of us less shy, or even a hug if one of those kids put 
+handshake for those of us more shy, or even a hug if one of those kids put 
 their arms out. The point of this is, she did this to everyone, not just Rob.
 What she taught me is that everyone needs that hug, needs that high five, 
 needs that person to keep you after class and making sure your doing ok.
@@ -80,7 +80,8 @@ everything. If I never had a person like Mrs. Lindquist in my life, I may have
 never felt special enough to start my own organization or meet the people I
 have. There are millions of people out there who are just like me, who have
 had a Mrs. Lindquist in their life, and you must understand that you have more
-to you than what you do.
+to you than what you do. I want you to become the you had, or the one you wish
+you had -- because it's all within your power to do so.
 
 ## The Principles
 
