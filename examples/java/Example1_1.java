@@ -1,4 +1,4 @@
-package Examples;
+package examples.java;
 import java.util.InputMismatchException; // Import the InputMismatchException class
 import java.util.Scanner; // Import the Scanner class
 public class Example1_1 { // Begin class
