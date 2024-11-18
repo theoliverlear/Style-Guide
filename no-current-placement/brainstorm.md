@@ -1,3 +1,4 @@
+###### TODO: Create webapp and parser for this style guide to be an online resource.
 This is the first commit for the style guide. Ideas, chapters, and examples are soon to come!
 
 # this is the brainstorm section where I note my raw thoughts and ideas
