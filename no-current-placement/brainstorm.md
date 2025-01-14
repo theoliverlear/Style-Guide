@@ -173,3 +173,5 @@ when to use respective naming in ids and classes and how it connects code like j
 ordering of CSS selectors and how to organize them -- visual hierarchy vs similarity/relationship hierarchy
 unique position as a typically split or half screen language (why the 49)
 CSS deals with already declared variables -- how does that affect the code style
+
+chapter on variables and pulling out variables and the low cost of garbage collected memory
