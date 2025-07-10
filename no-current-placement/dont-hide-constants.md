@@ -1,6 +1,6 @@
 # Don't Hide Constants
 
-A lesson from Uncle Bok's "Clean Code" deserves more than an honorable 
+A lesson from Uncle Bob's "Clean Code" deserves more than an honorable 
 mention. To me, this is a fundamental rule. The ever-present danger of magic
 numbers is something that is seen far too much, and is far too preventable to
 not be mentioned here.
